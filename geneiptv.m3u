@@ -9,7 +9,7 @@ http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="NACIONALES",TVN Internacional
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_7/med_gallery_1178_7_56760.png" group-title="NACIONALES",Mega 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_zpspdvnwvzq.png" group-title="NACIONALES",Mega 
 http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="NACIONALES",CHV 
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
@@ -191,6 +191,10 @@ http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m
 
 #EXTINF:0,-Colombia-
 
+#EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/062014/logo_caracol_television.jpg?itok=dcTy5zzy" group-title="COLOMBIA",Caracol 
+http://199.180.114.174:84/ccaracol.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-rcn_10_1_zpskiejaaq8.png" group-title="COLOMBIA",RCN
+http://199.180.114.174:84/crcn.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/life_design_tv_zpsr2fpkas2.png" group-title="COLOMBIA",Lifedesing 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo3d_zpsakhksl9c.png" group-title="COLOMBIA",Canal Antiestres 
@@ -291,8 +295,6 @@ http://45.55.81.38:1382/discoverykids/playlist.m3u8
 
 #EXTINF:0,-Deportes-
 
-#EXTINF:-1 tvg-logo="http://lh6.googleusercontent.com/-5cREtSCrSwU/U4WLgrcq4rI/AAAAAAAAA7E/THFedMmQMKI/s154/tyc-sports-tv.png" group-title="DEPORTES",TyC Sports 
-http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/GItbD_zpsiqiln6to.png" group-title="DEPORTES",Win Sports 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/deportv_zpslussgupq.png" group-title="DEPORTES",DXTV 
@@ -308,8 +310,6 @@ http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-mimusica_zpsvx6th2vd.png" group-title="MUSICA",Mi Musica 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/1328367291_zpsnk7smybe.png" group-title="MUSICA",Vh1 
-http://104.236.232.245:1382/hls/vh1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tigo_zps9u7l0tan.png" group-title="MUSICA",Tigo Musica 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 #EXTINF:-1 group-title="MUSICA",Onda Latina
